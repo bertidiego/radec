@@ -34,13 +34,13 @@ The main components of RADEC **REV1** are, but not limited to:
 - **1x** C99652 for USB communication
 - **1x** USB Type-B port (**To be upgraded to an USB Type-C**)
 - **OPTIONAL** - **1x** LCD I2C **16x4** to display current data
-You can take a look to the BOM down below!
+- You can take a look to the BOM down below!
 ## Schematics
 
-The schematics could be found here.
+The schematics could be found [**here**](https://github.com/bertidiego/radec/schem).
 ## BOM
 
-The BOM (Bill Of Materials) could be found here.
+The BOM (Bill Of Materials) could be found [**here**](https://github.com/bertidiego/radec/bom).
 ## License
 
 
@@ -49,5 +49,5 @@ You are free to use, modify, and redistribute the code and hardware files — ju
 
 ## Support
 
-Do you need assistance? Check our Discord (**wip**) server!
+Do you need assistance? Check our Discord (**WIP**) server!
 
