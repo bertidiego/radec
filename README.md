@@ -1,3 +1,4 @@
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 # RADEC
@@ -22,7 +23,7 @@ It communicates with the computer through a **serial port** and reacts in almost
 - **I2C LCD** support
 - On-board **power management**
 - Controlled by every software that support **MEADE LX200** communication protocol
-- **WIP** - [**Skynapse**](https://github.com/bertidiego/skynapse), the **open-source** software that controls RADEC to life with precise slewing, object tracking, and PC-based UI (go to section)
+- ~~**WIP** - [**Skynapse**](https://github.com/bertidiego/skynapse), the **open-source** software that controls RADEC to life with precise slewing, object tracking, and PC-based UI (go to section)~~ **Skynapse is being discontinued**, please use **[Stellarium](https://github.com/Stellarium/stellarium)** which is a free software that does the same things, except 100 times better :)
 
 
 ## Hardware Components
@@ -37,10 +38,10 @@ The main components of RADEC **REV1** are, but not limited to:
 - You can take a look to the BOM down below!
 ## Schematics
 
-The schematics could be found [**here**](https://github.com/bertidiego/radec/schem).
+The schematics for the REV1 of RADEC could be found [**here**](https://github.com/bertidiego/radec/tree/main/schem).
 ## BOM
 
-The BOM (Bill Of Materials) could be found [**here**](https://github.com/bertidiego/radec/bom).
+The BOM (Bill Of Materials) could be found [**here**](https://github.com/bertidiego/radec/tree/main/bom).
 ## License
 
 
